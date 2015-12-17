@@ -1,5 +1,5 @@
 {
-  "name": "ng-unrest-js",
+  "name": "ng-unrest",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattfroese/ng-unrest-js.git"
+    "url": "git+https://github.com/mattfroese/ng-unrest.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mattfroese/ng-unrest-js/issues"
+    "url": "https://github.com/mattfroese/ng-unrest/issues"
   },
-  "homepage": "https://github.com/mattfroese/ng-unrest-js#readme",
+  "homepage": "https://github.com/mattfroese/ng-unrest#readme",
   "devDependencies": {
     "beepbeep": "^1.2.0",
     "gulp": "^3.9.0",
