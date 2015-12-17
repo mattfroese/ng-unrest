@@ -1,7 +1,7 @@
 {
-  "name": "ng-unrest-js",
+  "name": "ng-unrest",
   "version": "0.0.1",
-  "homepage": "https://github.com/mattfroese/ng-unrest-js",
+  "homepage": "https://github.com/mattfroese/ng-unrest",
   "authors": [
     "Matt Froese <froese.matt@gmail.com>"
   ],
