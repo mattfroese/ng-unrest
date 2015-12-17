@@ -1,0 +1,30 @@
+{
+  "name": "ng-unrest-js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mattfroese/ng-unrest-js",
+  "authors": [
+    "Matt Froese <froese.matt@gmail.com>"
+  ],
+  "description": "Angularitized unrest module",
+  "main": "dist/ng-unrest.js",
+  "keywords": [
+    "unrest",
+    "api",
+    "rest"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "unrest": "~2.0.1"
+  },
+  "devDependencies": {
+    "angular": "~1.4.8",
+    "angular-mocks": "~1.4.8"
+  }
+}
