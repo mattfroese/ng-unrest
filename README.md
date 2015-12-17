@@ -1,5 +1,5 @@
 # ng-unrest
-An angular provider for the [https://github.com/xori/unrest-js/](unrest-js) library
+An angular provider for the [unrest-js](https://github.com/xori/unrest-js/) library
 
 ## Installation
 ```sh
