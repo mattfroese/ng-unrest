@@ -21,7 +21,7 @@
     "tests"
   ],
   "dependencies": {
-    "unrest": "~2.0.1"
+    "unrest": "^2.0.1"
   },
   "devDependencies": {
     "angular": "~1.4.8",
